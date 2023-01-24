@@ -1,7 +1,8 @@
 import geocoder
 import folium
 
-g = geocoder.ip("ip-address")
+ip = input("Enter the ip: ")
+g = geocoder.ip("ip")
 
 Address = g.latlng
 print(Address)
