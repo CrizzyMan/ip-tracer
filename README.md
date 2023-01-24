@@ -7,4 +7,4 @@ I take no responsibility for how you use it.
 
 After starting it will create an .html file with the location on the map.
 
-USAGE
+# USAGE
