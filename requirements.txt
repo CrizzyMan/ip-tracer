@@ -1,2 +1,2 @@
 geocoder==1.38.1
-
+folium==0.14.0 
