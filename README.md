@@ -13,5 +13,7 @@ git clone https://github.com/CrizzyMan/ip-tracer.git
 
 cd ip-tracer
 
+pip install -r requirements.txt
+
 python trace.py
 
