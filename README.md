@@ -9,7 +9,7 @@ After starting it will create an .html file with the location on the map.
 
 # USAGE
 
-https://github.com/CrizzyMan/ip-tracer.git
+git clone https://github.com/CrizzyMan/ip-tracer.git
 
 cd ip-tracer
 
