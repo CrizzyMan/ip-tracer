@@ -16,4 +16,4 @@ folium.CircleMarker(location=Address,
 folium.Marker(Address,
               popup="Found").add_to(my_map1)
 
-my_map1.save("my_map.html ")
+my_map1.save("my_map.html")
